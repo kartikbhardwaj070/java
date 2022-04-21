@@ -8,6 +8,11 @@ public class Pattern {
 		for(int i=1;i<=n;i++)
 		{
 			hi kartik i am happy to learn git hub
+			
+			
+			kdjfs dfskdjfhsdkfj sdkfhs dkfjshk fsjf ksjf
+			sdokfjs kfss
+			'sfs djfs'
 			if(i==1||j==1||i==n||j==m)
 			{
 				System.out.print("*");
